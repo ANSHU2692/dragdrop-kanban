@@ -1,7 +1,13 @@
-# ⚡ FocusFlow Board – Kanban Task Manager
+# ⚡ Kanban Drag and Drop
 
 A modern and interactive **Kanban Board Web Application** built using **HTML, CSS, and Vanilla JavaScript**.
-This project is not just about building a UI — it reflects my understanding of **task management systems, state handling, and real-world workflow optimization using the Kanban methodology**.
+This project demonstrates my understanding of **task management systems, drag-and-drop interactions, and real-world workflow optimization using the Kanban methodology**.
+
+---
+
+## 🚀 Live Demo
+
+👉 https://dragdrop-kanban.vercel.app
 
 ---
 
@@ -45,56 +51,46 @@ This project is a direct implementation of these Kanban principles in a web-base
 
 ---
 
+---
+
 ## ⚙️ How It Works
 
 - Tasks are dynamically created using JavaScript
 - Drag & Drop is implemented via the **HTML Drag and Drop API**
-- Application state is maintained in a JavaScript object
+- Application state is managed using JavaScript objects
 - Tasks are stored in **localStorage**, ensuring persistence after reload
-- On load, tasks are fetched and rendered automatically
+- On reload, tasks are fetched and rendered automatically
 
 ---
 
 ## 🧠 What I Learned From This Project
 
-This project significantly improved my understanding of:
+This project helped me strengthen my understanding of:
 
 ### 🔹 Core JavaScript Concepts
 
 - DOM manipulation and dynamic UI rendering
 - Event handling (click, drag, drop)
 - Managing application state using objects
-- Working with browser APIs like **localStorage**
+- Working with browser APIs like localStorage
 
 ### 🔹 Problem Solving & Logic Building
 
 - Designing drag-and-drop workflows
-- Updating UI and data consistently
-- Handling edge cases (empty input, task deletion)
+- Keeping UI and data in sync
+- Handling edge cases like empty inputs and deletion
 
 ### 🔹 UI/UX Development
 
-- Building modern UI using **glassmorphism design**
-- Creating smooth animations and transitions
+- Creating modern UI using glassmorphism design
+- Building smooth animations and transitions
 - Structuring layouts using Flexbox
 
-### 🔹 Real-World Application Thinking
+### 🔹 Real-World Development Thinking
 
-- Understanding how Kanban is used in productivity tools
-- Translating real workflow systems into code
-- Thinking in terms of **user experience and usability**
-
----
-
-## 📈 Future Improvements
-
-- ✏️ Edit task functionality
-- 🔢 Reorder tasks within a column
-- ⏳ Add due dates & priority levels
-- 🔍 Search and filter tasks
-- ⚛️ Convert into React for scalability
-
----
+- Understanding Kanban workflow systems
+- Translating real-world concepts into code
+- Focusing on usability and user experience
 
 ---
 
@@ -111,6 +107,6 @@ This project helped me move beyond basic coding and start thinking like a develo
 
 ## ⭐ Support
 
-If you found this project useful, consider giving it a ⭐ on GitHub!
+If you like this project, consider giving it a ⭐ on GitHub!
 
 ---
